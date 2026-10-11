@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+<title id="title">English condition to symbolic instruction</title>
+<desc id="desc">Before: If evidence is missing, say unknown. Do not invent facts. After: IF MISSING then UNKNOWN; not INVENT FACTS. One possible translation, not a fixed grammar.</desc>
+<rect width="900" height="260" rx="20" fill="#f5f7f7"/>
+<text x="30" y="40" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#526776">ONE INTENT. FEWER WORDS.</text>
+<rect x="30" y="64" width="380" height="130" rx="12" fill="#ffffff" stroke="#c6d4d9"/>
+<text x="50" y="95" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#526776">ENGLISH</text>
+<text x="50" y="133" font-family="Arial,sans-serif" font-size="22" fill="#102a40">If evidence is missing, say unknown.</text>
+<text x="50" y="165" font-family="Arial,sans-serif" font-size="22" fill="#102a40">Do not invent facts.</text>
+<path d="M426 128h45m-12-10 12 10-12 10" fill="none" stroke="#0b9189" stroke-width="3"/>
+<rect x="490" y="64" width="380" height="130" rx="12" fill="#e2f5f0" stroke="#0b9189"/>
+<text x="510" y="95" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#087e77">X SYNTAX</text>
+<text x="510" y="133" font-family="monospace" font-size="24" font-weight="700" fill="#102a40">IF MISSING → UNKNOWN</text>
+<text x="510" y="168" font-family="monospace" font-size="24" font-weight="700" fill="#102a40">¬ INVENT FACTS</text>
+<text x="30" y="234" font-family="Arial,sans-serif" font-size="16" fill="#526776">Use words and symbols that make the intent clear. No fixed grammar.</text>
+</svg>
