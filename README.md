@@ -54,6 +54,12 @@ TEST IF AVAILABLE; IF NOT RUN → REPORT
 
 [Copyable before/after pairs](examples/)
 
+## Reusable skills
+
+- [Tabular Review](skills/tabular-review/SKILL.md) — build evidence-backed AI review tables in Dash/Plotly or React, with source drill-down, typed cell states, and reusable data contracts. Written in X Syntax with explanatory notes.
+
+Skills are agent instructions, not executable libraries. Load the selected `SKILL.md` using your agent host's supported mechanism; file presence alone does not activate it or grant tool permissions. The tabular-review skill includes a suggested Python module layout and an implementation checklist, not a shipped dashboard component.
+
 ## How to write it
 
 ```mermaid
